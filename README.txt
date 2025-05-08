@@ -20,12 +20,11 @@ No messages are stored — they are only relayed through the server.
 Screenshots
 
 **Login Window**  
-![Login](images/login_gui.jpg)
+<img src="images/login_gui.jpg" width="400"/>
 
 **Main Chat Window**  
-![Chat](images/chat_gui.jpg)
+<img src="images/chat_gui.jpg" width="400"/>
 
 **Chatting Process**  
-![Chatting](images/chatting_process.jpg)
-
+<img src="images/chatting_process.jpg" width="400"/>
 
