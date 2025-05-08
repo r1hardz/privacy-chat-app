@@ -1,22 +1,23 @@
-# 🔐 Privacy-Oriented Messaging App
+Privacy-Oriented Messaging App
 
-A lightweight Python-based chat application focused on user **privacy** and **security**, using end-to-end encryption. No messages are stored — they are only relayed through the server.
+A lightweight Python-based chat application focused on user **privacy** and **security**, using end-to-end encryption. 
+No messages are stored — they are only relayed through the server.
 
-## 🚀 Technologies Used
+Tech Stack
 
 - **Python 3**
 - `socket` – for network communication
 - `cryptography` – for RSA encryption
 - `tkinter` – for the GUI
 
-## 💡 Main Features
+Main Features
 
 - End-to-end encrypted messaging
 - No message history saved
 - Room-based login with password
 - Graphical interface for ease of use
 
-## 🖼️ Screenshots
+Screenshots
 
 **Login Window**  
 ![Login](images/login_gui.png)
@@ -27,5 +28,4 @@ A lightweight Python-based chat application focused on user **privacy** and **se
 **Chatting Process**  
 ![Chatting](images/chatting_process.png)
 
-## 📂 Project Structure
 
