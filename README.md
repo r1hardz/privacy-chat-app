@@ -19,13 +19,7 @@ No messages are stored — they are only relayed through the server.
 
 Screenshots
 
-**Login Window**  
-![Login Window](images/login_gui.jpg)
-
-
-**Main Chat Window**  
-<img src="images/chat_gui.jpg" width="400"/>
-
-**Chatting Process**  
-<img src="images/chatting_process.jpg" width="400"/>
+| Login Window | Main Chat Window | Chatting Process |
+|:------------:|:----------------:|:----------------:|
+| ![Login](images/login_gui.jpg) | <img src="images/chat_gui.jpg" width="300"/> | <img src="images/chatting_process.jpg" width="300"/> |
 
