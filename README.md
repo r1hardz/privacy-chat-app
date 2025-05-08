@@ -15,7 +15,17 @@ No messages are stored — they are only relayed through the server.
 3. Room-based login with password
 4. Graphical interface for ease of use
 
-#### Screenshots
-| **Login Window** | **Chatting Process** | **Main Chat Window** |
-|:----------------:|:--------------------:|:--------------------:|
-| <img src="images/login_gui.jpg" height="250"/> | <img src="images/chat_gui.jpg" height="250"/> | <img src="images/chatting_process.jpg" height="250"/> |
+## Screenshots
+
+<details>
+  <summary>Click to expand screenshots</summary>
+  
+  ### Login Window
+  <img src="images/login_gui.jpg" width="600"/>
+  
+  ### Chatting Process
+  <img src="images/chat_gui.jpg" width="600"/>
+  
+  ### Main Chat Window
+  <img src="images/chatting_process.jpg" width="600"/>
+</details>
